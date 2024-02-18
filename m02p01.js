@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Highlight Yandex Ads
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/1-Mysty-1/hya
 // @version      m02p01
 // @description  Highlight Ads in Yandex Search
 // @description:ru Подсветка рекламы при выдаче результатов
