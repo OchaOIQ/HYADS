@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Highlight Yandex Ads
 // @namespace    https://github.com/1-Mysty-1/hya
-// @version      m02p01
+// @version      24m02p01
 // @description  Highlight Ads in Yandex Search
 // @description:ru Подсветка рекламы при выдаче результатов
 // @author       Mysty
