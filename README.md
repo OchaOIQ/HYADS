@@ -9,4 +9,4 @@ Install: https://tampermonkey.net/
 Before:\
 ![https://i.imgur.com/PthP7D8.png](https://i.imgur.com/PthP7D8.png)\
 After:\
-![https://i.imgur.com/qjkEjkI.png](https://i.imgur.com/qjkEjkI.png)\
+![https://i.imgur.com/qjkEjkI.png](https://i.imgur.com/qjkEjkI.png)
