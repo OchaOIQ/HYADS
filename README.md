@@ -1,4 +1,4 @@
-# HYA - Highlight Yandex Ads
+# HYADS - Highlight Yandex Ads
 Highlight Ads in Yandex Search
 
 ## Using
